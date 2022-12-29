@@ -1,0 +1,6 @@
+{
+  "department-search": {
+    "component": "DepartmentSearch",
+    "render": "client"
+  }
+}
