@@ -1,6 +1,6 @@
 # Custom department search
 
-Este componente mostrara informacion adicional al momento de realizar un añadido a la lista de compra.
+Componente para personalizar la barra de busqueda de Vtex IO.
  
 <div align="center">
 
