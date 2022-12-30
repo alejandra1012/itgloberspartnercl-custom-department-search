@@ -15,7 +15,7 @@ const DepartmentSearch = () => {
   return loading ? (
     <div>loading...</div>
   ) : (
-    <div className="flex">
+    <div className="flex ml0">
       <DepartmentGroup
         departments={data?.categories[0]?.children}
         handleSetSlug={setSlug}
